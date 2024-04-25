@@ -6,7 +6,7 @@
 
 --> Go to Root 
 
---> Run "mvn clean package"
+--> Run "mvn clean 
 
 --> Run "java -jar target/jar_fi
 
