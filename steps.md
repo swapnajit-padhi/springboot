@@ -8,6 +8,6 @@
 
 --> Run "mvn clean package"
 
---> Run "java -jar target/jar_file_name.jar"
+--> Run "java -jar target/jar_file_name.j
 
 --> Access the Application at IP:8080
