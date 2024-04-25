@@ -4,7 +4,7 @@
 
 --> Clone the Project
 
---> Go to Root directly of the project
+--> Go to Root directly of the 
 
 --> Run "mvn clean package"
 
