@@ -4,7 +4,7 @@
 
 --> Clone the 
 
---> Go to Root directly 
+--> Go to Root 
 
 --> Run "mvn clean package"
 
